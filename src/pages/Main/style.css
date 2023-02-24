@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  height: 100vh;
+  width: 100vw;
+
+}
+
+.container-perfil {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  height: 100vh;
+  width: 100vw;
+  background-color: orange;
+}
+
+.testDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  height: 100vh;
+  width: 100vw;
+}
